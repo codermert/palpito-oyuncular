@@ -1,16 +1,6 @@
 # palpito
 
 palpito dizisi için yapılan uygulama projesi
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/53333294/226327086-48819e3f-8f47-488b-90e0-3d2adb4e7c6e.png)
+![image](https://user-images.githubusercontent.com/53333294/226327109-6a5d7aab-1e92-4768-81d5-ea67373e83ac.png)
+![image](https://user-images.githubusercontent.com/53333294/226327131-1850fe88-f246-45fa-a7af-faa852e1be1d.png)
